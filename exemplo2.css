@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(167, 128, 202);
+}
+.topo{
+      background-color: rgb(184, 230, 230);
+      height: 200px;
+      padding: 30xp;
+      color: rgb(233, 180, 214);
+}
+.topo ul{
+      display: flex;
+      width: 100;
+      justify-content: space-around;
+      background-color: rgb(235, 144, 212);
+      margin: 0;
+} 
+.topo li{
+      list-style:none;
+}
+.topo li a{
+      text-decoration:none;
+      color:rgb(158, 99, 143);
+      padding: 10px;
+      display: flex;
+}
+.topo li a:hover{
+      text-decoration: underline;
+}
+ .corpo{
+    background-color: rgb(134, 134, 235);
+    min-height: 400px;
+ }
+   
+ .hodape{
+    background-color: rgb(199, 217, 157);
+    height: 150px;
+    padding: 30px;
+    color: rgb(218, 89, 89);
+ }
+ul{
+     list-style-image: url('http://i.stack.imgur.com/5kI3v.png')
+  }
+  
+    
+    
+
